@@ -20,4 +20,5 @@ button.primary {
   background: var(--primary-color);
   color: white;
   border-radius: 8px;
+  cursor: pointer;
 }
